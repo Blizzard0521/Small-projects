@@ -2,7 +2,7 @@
 
 **Scalable Hybrid Intelligent Engine for Layered Defence of APIs**
 
-SHIELD-API is a prototype API security gateway that protects REST and GraphQL endpoints with several defence layers working together. It combines fixed rules (bot fingerprinting, authentication, GraphQL depth limits) with an anomaly score based on machine learning that also adjusts the rate limiter as it goes.
+SHIELD-API is a prototype API security gateway that protects REST and GraphQL endpoints with several defence layers working together. It combines fixed rules (bot fingerprinting, authentication, GraphQL depth limits) with an anomaly score based on machine learning that also adjusts the rate limiter as it goes. This prototype was a group assignment for our Computer Intrusion Detection module where I was in charge of the development of this prototype.
 
 The project has three parts:
 
