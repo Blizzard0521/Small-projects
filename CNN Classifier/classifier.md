@@ -8,7 +8,7 @@
 
 A convolutional neural network built **from scratch** (no pre-trained weights) that sorts photographs of natural and urban scenes into six categories: **buildings, forest, glacier, mountain, sea and street**. The model has about 424K parameters. On the 3,000-image held-out test set it scores **86.9% accuracy** and a **0.870 macro F1-score**.
 
-The project was built for the *Computer Vision and Natural Language Processing* module (ITS69204) at Taylor's University.
+The project was built for the *Computer Vision and Natural Language Processing* module (ITS69204) at Taylor's University, where I was in charge of the prototype development.
 
 ---
 
@@ -283,4 +283,3 @@ kaggle
 ### Authors
 
 - Ivan Tan
-- *Add teammates here*
