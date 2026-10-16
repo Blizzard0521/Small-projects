@@ -1,0 +1,13 @@
+{
+    "Detection Rate": "94.8%",
+    "False Positive Rate": "0.0%",
+    "Precision": "100.0%",
+    "F1-Score": "0.973",
+    "AUC-ROC": "1.000",
+    "Confusion Matrix": {
+        "TP": 18956,
+        "TN": 79996,
+        "FP": 4,
+        "FN": 1044
+    }
+}
